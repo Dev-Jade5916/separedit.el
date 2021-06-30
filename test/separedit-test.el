@@ -20,7 +20,7 @@
 (require 'cl-macs)
 
 (require 'ert)
-;; (setq ert-batch-backtrace-right-margin nil)
+(setq ert-batch-backtrace-right-margin nil)
 
 (require 'separedit)
 ;; (separedit-toggle-debug t)
