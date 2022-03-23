@@ -1,4 +1,4 @@
-;;; separedit.el --- Edit comment/string/docstring/code block in separate buffer -*- lexical-binding: t; -*-
+;;; separedit.el.git --- Edit comment/string/docstring/code block in separate buffer -*- lexical-binding: t; -*-
 
 ;; Copyright (C) 2019 Gong Qijian <gongqijian@gmail.com>
 
